@@ -1,4 +1,8 @@
+// add some word in canteen
+// by sean
+
 #include "stdio.h"
+
 
 int main() {
 
